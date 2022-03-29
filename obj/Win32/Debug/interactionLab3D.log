@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+     Creating library bin\interactionLab3D_debug.lib and object bin\interactionLab3D_debug.exp
+  interactionLab3D.vcxproj -> D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\interactionLab3D_debug.exe
+  
+  	                   2	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 3506176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp32.dll
+  	  *EXTRA File 		 4244992	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp64.dll
+  	    New File  		 1266176	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    New File  		 1312768	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	D:\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3506176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp32.dll
+  	  *EXTRA File 		 4244992	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp64.dll
+  	  *EXTRA File 		 1266176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodexL.dll
+  	    New File  		 6018560	D:\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll

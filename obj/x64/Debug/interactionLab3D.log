@@ -1,0 +1,28 @@
+﻿  KdTree.cpp
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\of_v0.10.1_vs2017_release\apps\myapps\interactionlab3d\src\kdtree.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library bin\interactionLab3D_debug.lib and object bin\interactionLab3D_debug.exp
+  interactionLab3D.vcxproj -> D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\interactionLab3D_debug.exe
+  
+  	                   2	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 3506176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp32.dll
+  	  *EXTRA File 		 4244992	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp64.dll
+  	  *EXTRA File 		 1266176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodexL.dll
+  	  *EXTRA File 		 6018560	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\FreeImage.dll
+  	    New File  		 1503232	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\fmodex64.dll
+  	    New File  		 1552384	D:\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\fmodexL64.dll
+  
+  	                   1	D:\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 3506176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp32.dll
+  	  *EXTRA File 		 4244992	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\assimp64.dll
+  	  *EXTRA File 		 1266176	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	D:\of_v0.10.1_vs2017_release\apps\myApps\interactionLab3D\bin\fmodexL64.dll
+  	    Older     		 6942208	D:\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\FreeImage.dll
